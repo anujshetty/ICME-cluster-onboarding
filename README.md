@@ -58,7 +58,7 @@ Conda is already installed on the cluster. It's needs to be initiated first
 by running 
 
 ```
-eval "$(/opt/ohpc/pub/compiler/anancoda3/2023.09-0/bin/conda shell.bash hook)"
+eval "$(/opt/ohpc/pub/compiler/anaconda3/2023.09-0/bin/conda shell.bash hook)"
 conda init
 ```
 
